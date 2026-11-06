@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+out/
+# Licence guard: never commit the Python port or the upstream CC BY-ND files (see docs/PERMISSION_STATUS.md)
+nguyen_port.py
+nguyen_src/
+Data/
+model_params.mat
+*.m

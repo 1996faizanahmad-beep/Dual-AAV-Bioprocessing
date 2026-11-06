@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it. Add the repository URL, version tag and DOI after the first public release."
+title: "Computational audit and reproducibility package for a dual-AAV digital twin"
+authors:
+  - family-names: Ahmad
+    given-names: Faizan
+    orcid: "https://orcid.org/0000-0002-7768-9411"
+license: MIT
+references:
+  - type: article
+    title: "Mechanistic model for production of recombinant adeno-associated virus via triple transfection of HEK293 cells"
+    authors:
+      - family-names: Nguyen
+        given-names: Tam N.T.
+      - family-names: Braatz
+        given-names: Richard D.
+    journal: "Molecular Therapy Methods & Clinical Development"
+    year: 2021
+    volume: 21
+    start: 642
